@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/mkdocstrings/griffe-autodocstringstyle/commit/6f45513ef24bfa2d100069252876914a16d1cbf3",
       "git:hexsha": "6f45513ef24bfa2d100069252876914a16d1cbf3",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "0.2.2"
     },
     {
